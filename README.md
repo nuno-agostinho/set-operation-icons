@@ -33,9 +33,9 @@ The following icon names are available:
 * `intersect`
 * `difference`
 * `complement`: complement of one group
-* `complement-ab`: complement of two united groups
-* `difference-ab`: subtract group B elements from group A
-* `difference-ba`: subtract group A elements from group B
+* `complement-AB`: complement of two united groups
+* `difference-AB`: subtract group B elements from group A
+* `difference-BA`: subtract group A elements from group B
 * `symmetric-difference`
 * `empty`
 
@@ -57,7 +57,7 @@ The icons are based on the [circle-thin](http://fontawesome.io/icon/circle-thin)
 
 ## License
 
-As the icons are based on Font Awesome, all the same licenses apply.
+As the icons are based on [Font Awesome](http://fontawesome.io), all the same licenses apply.
 
 * Font license: [SIL OFL 1.1](http://scripts.sil.org/OFL)
 * CSS license: [MIT License](http://opensource.org/licenses/mit-license.html)

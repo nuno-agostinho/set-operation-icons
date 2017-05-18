@@ -11,7 +11,7 @@ As there seems to be no free pack of icons for set operations, I have created my
 
 To install the fonts of this project, download this repository and go to the [fonts](set-operations/fonts) folder. Here, you can find the files needed to install the fonts to your computer.
 
-If you do not know which file format is the most appropriate for you, just open and install the [set-operations.ttf](set-operations/fonts/set-operations.ttf).
+If you do not know which file format is the most appropriate for you, just install the [set-operations.ttf](set-operations/fonts/set-operations.ttf).
 
 ### In a web project
 

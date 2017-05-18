@@ -39,13 +39,13 @@ The following icon names are available:
 * `symmetric-difference`
 * `empty`
 
-If you prefer the groups to be identified by the letters A and B, you can add `-id` to the icon name:
+If you prefer the groups to be identified by the letters A and B, you can add the suffix `id` to the icon name:
 
 ```html
 <span class="set set-union-id"></span>
 ```
 
-You may also desire to change the icon style to improve their position according to the remaining text. For example, as such:
+You may also desire to change the icon style to improve their position according to the remaining text, as such:
 
 ```html
 <span class="set set-intersect" style="font-size: 20px; line-height: 0; vertical-align: bottom; display: inline-block;"></span> Intersect groups

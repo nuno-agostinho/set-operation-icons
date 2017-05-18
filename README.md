@@ -1,4 +1,4 @@
-# set-operations
+# Set Operation Icons
 Icons for set operations
 
 ![Set operation icons](icons.png)

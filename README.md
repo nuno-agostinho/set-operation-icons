@@ -3,7 +3,7 @@ Icons for set operations
 
 ![Set operation icons](icons.png)
 
-As there seems to be no free pack of icons for set operations, I have created my own. However, be warned that I am an amateur in this "icon creation" business and these icons are mostly used for another project of my own.
+As there seems to be no free pack of icons for set operations, I have created my own. However, be warned that I am an amateur in this "icon creation" business and these icons have been created to be used for another project of my own.
 
 ## Usage
 

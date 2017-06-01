@@ -1,5 +1,5 @@
 # Set Operation Icons
-Icons for set operations
+Icons for set operations, depicted as Venn diagrams
 
 ![Set operation icons](icons.png)
 
